@@ -1,7 +1,6 @@
 # scripts
 ------------
 Creat a folder */home/user_name/bin*, if you don't have it, and place your scripts there. It should be already in your $PATH variable. Check it with `echo $PATH` command
------------
 
 ## words_define.sh
 ----------------- 
