@@ -10,5 +10,5 @@ Install needed packages if you don't have them:
 - xclip: For interacting with the clipboard
 - jq: To parse JSON data returned by the API
 - notify-send: For displaying notifications (part of the libnotify package)
-
+- dunst - notification daemon
 Bind it to some key combination.
